@@ -33,4 +33,3 @@ UML
 
 ## link for deploy 
 
-- [for heroku]()
